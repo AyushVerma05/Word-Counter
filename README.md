@@ -21,3 +21,9 @@ Open the application.
 Enter or paste the text in the provided text area.
 
 View the real-time word and character count updates.
+
+# Technologies Used
+
+HTML, CSS, JavaScript 
+
+

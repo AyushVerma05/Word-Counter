@@ -26,4 +26,9 @@ View the real-time word and character count updates.
 
 HTML, CSS, JavaScript 
 
+# Author
+
+Ayush Verma
+
+Feel free to contribute or suggest improvements!
 
